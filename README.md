@@ -35,3 +35,5 @@ Following this, I created a Jupyter Notebook named "data.ipynb." This notebook s
 ## Introduction
 "Introducing Citi Bike, your go-to bike-sharing system in the heart of New York City! With thousands of bikes at convenient stations, Citi Bike is ready for you 24/7, 365 days a year. Unlock a bike at any station and enjoy the freedom to ride anywhere you want. Whether you're a local or a visitor, choose from daily, three-day, or annual passes for a hassle-free and eco-friendly way to explore the city. Experience the convenience of Citi Bike for quick trips around the Big Apple!"
 ## Story 
+![introduction1](https://github.com/subhab1/Tableau_Citibike/assets/134475270/1b2a5343-0229-4874-8ad6-35f6beb26890)
+
